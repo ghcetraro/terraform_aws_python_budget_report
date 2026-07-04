@@ -186,3 +186,26 @@ Resources that are going to be deployed to apply the "aws config" service
 - cloudwatch event target
 - cloudwatch log group
 ```
+
+
+---
+
+## Documentación del proyecto
+
+- [Changelog](CHANGELOG.md)
+- [Contribuir](CONTRIBUTING.md)
+
+---
+
+## Seguridad
+
+No commitees secretos, tfvars con credenciales reales ni archivos de state.
+
+Ver [SECURITY.md](SECURITY.md).
+
+---
+
+## Licencia
+
+[MIT](LICENSE) — Copyright (c) Gabriel Cetraro
+
