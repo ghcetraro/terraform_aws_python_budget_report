@@ -1,5 +1,8 @@
 # Changelog
 
+ - 1.1.0 date: 2026-07-20
+ - Estandarización pública: README marketing, docs LinkedIn, CI Terraform, tfvars.example
+
 Formato basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.1.0/).
 Versionado según [Semantic Versioning](https://semver.org/lang/es/).
 

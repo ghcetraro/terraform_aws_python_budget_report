@@ -21,3 +21,5 @@ Usá variables de entorno, AWS SSO o archivos locales gitignored.
 ## Reporte de vulnerabilidades
 
 Si encontrás un problema de seguridad, abrí un [GitHub Security Advisory](https://github.com/ghcetraro/terraform_aws_python_budget_report/security/advisories/new) o contactá al mantenedor del repo. No abras issues públicos con detalles explotables.
+
+Usá `terraform.tfvars.example` como plantilla; nunca subas `*.tfvars` ni `*.tfstate`.
